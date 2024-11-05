@@ -1,5 +1,5 @@
 ## Hi there 👋
-# I am Nameera Kousar Shaik :-)
+# I am Nameera Kousar Shaik :blush:
 # **QUALIFICATION**
 ### Bachelor's in **Computer Science and Engineering.**
 # Skills 
