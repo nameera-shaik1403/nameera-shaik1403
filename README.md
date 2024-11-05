@@ -1,4 +1,27 @@
 ## Hi there 👋
+# I am Nameera Kousar Shaik :-)
+# **QUALIFICATION**
+### Bachelor's in **Computer Science and Engineering.**
+# Skills 
+- Python
+- HTML
+- SQL 
+# Study Project
+- Event Management ( Web Platform)
+# Bachelor Thesis
+- Face Problem Detection Application.
+# Languages
+- English
+- German B1 Level
+- Hindi
+- Telugu
+- Urdu
+# LinkedIn Profile : [Link](https://www.linkedin.com/in/nameera-kousar-shaik-911519172)
+
+
+
+
+
 
 <!--
 **nameera-shaik1403/nameera-shaik1403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
